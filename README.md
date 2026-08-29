@@ -27,7 +27,7 @@ RobustLaneNet V3 performs lane perception in real time while the lane-aware plan
 The same trained perception model is evaluated under degraded visual inputs including noise, blur, low contrast, and occlusion.
 
 <p align="center">
-  <img src="docs/screenshots/robustness_test.png" width="850">
+  <img src="docs/screenshots/robustness_test.png.png" width="850">
 </p>
 
 ---
