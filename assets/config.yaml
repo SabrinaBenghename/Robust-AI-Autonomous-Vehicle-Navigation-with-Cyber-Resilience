@@ -1,0 +1,31 @@
+# AI Autonomous Vehicle Platform Configuration
+
+vehicle:
+  wheelbase: 2.7           # meters
+  max_steer_angle: 0.5236  # ~30 degrees in radians
+  max_acceleration: 3.5    # m/s^2
+  max_deceleration: 8.0    # m/s^2
+  max_speed: 33.3          # ~120 km/h in m/s
+
+perception:
+  camera_fov: 70.0         # degrees
+  lidar_range: 80.0        # meters
+  radar_range: 120.0       # meters
+  fusion_rate_hz: 20
+
+control:
+  pid_speed:
+    kp: 0.8
+    ki: 0.1
+    kd: 0.05
+  pure_pursuit:
+    lookahead_distance: 6.0
+    kp_lookahead: 0.1
+
+cybersecurity:
+  ids_anomaly_threshold: 3.5
+  encryption_algorithm: "AES-GCM-256"
+
+multi_agent:
+  v2x_broadcast_interval_ms: 100
+  platoon_desire_spacing: 8.0 # meters

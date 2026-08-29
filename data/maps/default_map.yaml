@@ -1,0 +1,11 @@
+map_name: "Urban Highway Loop"
+version: "1.0"
+road_network:
+  total_lanes: 4
+  lane_width_m: 3.7
+  speed_limit_kmh: 90
+  intersections:
+    - id: "INT_01"
+      coordinates: [640, 360]
+      has_traffic_light: true
+waypoints_count: 120

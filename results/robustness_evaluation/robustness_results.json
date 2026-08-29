@@ -1,0 +1,37 @@
+{
+    "CLEAN": {
+        "total": 40,
+        "successful": 40,
+        "failed": 0,
+        "mean_error": 0.6757318109273911,
+        "median_error": 0.6765808165073395
+    },
+    "NOISE": {
+        "total": 40,
+        "successful": 40,
+        "failed": 0,
+        "mean_error": 1.863698124885559,
+        "median_error": 1.8535553216934204
+    },
+    "BLUR": {
+        "total": 40,
+        "successful": 40,
+        "failed": 0,
+        "mean_error": 3.615757757425308,
+        "median_error": 3.6168670654296875
+    },
+    "LOW_CONTRAST": {
+        "total": 40,
+        "successful": 40,
+        "failed": 0,
+        "mean_error": 6.886047208309174,
+        "median_error": 6.885754346847534
+    },
+    "OCCLUSION": {
+        "total": 40,
+        "successful": 40,
+        "failed": 0,
+        "mean_error": 3.3244540333747863,
+        "median_error": 3.325115919113159
+    }
+}

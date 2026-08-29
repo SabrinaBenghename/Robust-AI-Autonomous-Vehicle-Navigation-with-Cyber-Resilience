@@ -1,0 +1,30 @@
+{
+    "noise": {
+        "total": 257,
+        "successful": 257,
+        "detection_rate": 100.0,
+        "mean_error": 2.004978627079798,
+        "median_error": 1.990000000000009
+    },
+    "blur": {
+        "total": 257,
+        "successful": 0,
+        "detection_rate": 0.0,
+        "mean_error": null,
+        "median_error": null
+    },
+    "low_contrast": {
+        "total": 257,
+        "successful": 257,
+        "detection_rate": 100.0,
+        "mean_error": 1.628552899759124,
+        "median_error": 1.6
+    },
+    "occlusion": {
+        "total": 257,
+        "successful": 257,
+        "detection_rate": 100.0,
+        "mean_error": 2.751376690754121,
+        "median_error": 2.725
+    }
+}
