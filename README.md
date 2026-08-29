@@ -8,6 +8,40 @@ A simulation-based autonomous vehicle research platform combining **deep-learnin
 
 ---
 
+---
+
+## 🎥 Project Demo
+
+### 🚗 Autonomous Driving
+
+RobustLaneNet V3 performs lane perception in real time while the lane-aware planner and controller manage vehicle navigation and obstacle avoidance.
+
+<p align="center">
+  <img src="docs/screenshots/autonomous_driving.png" width="850">
+</p>
+
+---
+
+### 🌧️ Robustness Under Adverse Visual Conditions
+
+The same trained perception model is evaluated under degraded visual inputs including noise, blur, low contrast, and occlusion.
+
+<p align="center">
+  <img src="docs/screenshots/robustness_test.png" width="850">
+</p>
+
+---
+
+### 🛡️ Cyber-Resilience Demonstration
+
+The simulator includes a lightweight defensive security layer capable of detecting suspicious sensor or AI data, rejecting untrusted values, and activating temporary Safe Mode.
+
+<p align="center">
+  <img src="docs/screenshots/cyber_security_demo.png" width="850">
+</p>
+
+---
+
 ## 🔬 Research Motivation
 
 Autonomous vehicles depend heavily on perception systems that must remain reliable when environmental conditions become difficult.
