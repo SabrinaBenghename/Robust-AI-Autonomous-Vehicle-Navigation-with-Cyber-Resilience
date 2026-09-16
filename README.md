@@ -7,7 +7,9 @@
 A simulation-based autonomous vehicle research platform combining **deep-learning lane perception**, **closed-loop autonomous navigation**, **obstacle avoidance**, **visual robustness evaluation**, and a **lightweight cyber-resilience layer**.
 
 ---
+# 📄 Research Paper
 
+A research-style paper based on this project is linked in my CV.
 ---
 
 ## 🎥 Project Demo
@@ -535,29 +537,7 @@ Potential extensions include:
 
 ---
 
-# 📄 Research Paper
 
-A research-style paper based on this project is linked in my CV.
-
-Planned sections include:
-
-```text
-Abstract
-Introduction
-Related Work
-Simulation Environment
-Classical Canny-Hough Baseline
-RobustLaneNet V3
-Adverse-Condition Robustness
-Closed-Loop Autonomous Driving
-Cyber-Resilience Architecture
-Experimental Results
-Discussion
-Limitations
-Conclusion
-```
-
----
 
 # 🚗 Project Philosophy
 
