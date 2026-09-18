@@ -6,11 +6,11 @@
 
 A simulation-based autonomous vehicle research platform combining **deep-learning lane perception**, **closed-loop autonomous navigation**, **obstacle avoidance**, **visual robustness evaluation**, and a **lightweight cyber-resilience layer**.
 
----
-# 📄 Research Paper
+## 📄 Technical Report
 
-A research-style paper based on this project is linked in my CV.
----
+A concise technical report presenting the methodology, autonomous driving system, robustness evaluation, experimental results, and cyber-resilience layer is available here:
+
+[📄 **Open the Cyber-Resilient AI Technical Report**](docs/Cyber_Resilient_AI_Technical_Report.pdf)--
 
 ## 🎥 Project Demo
 
