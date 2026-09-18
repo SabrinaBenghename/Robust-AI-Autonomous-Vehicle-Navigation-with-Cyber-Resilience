@@ -10,8 +10,7 @@ A simulation-based autonomous vehicle research platform combining **deep-learnin
 
 A concise technical report presenting the methodology, autonomous driving system, robustness evaluation, experimental results, and cyber-resilience layer is available here:
 
-[📄 **Open the Cyber-Resilient AI Technical Report**](docs/Cyber_Resilient_AI_Technical_Report.pdf)--
-
+[📄 **Open Cyber_Resilient_AI_for_Robust_Autonomous_Vehicle_Navigation_paper**](docs/Cyber_Resilient_AI_for_Robust_Autonomous_Vehicle_Navigation_paper.pdf)
 ## 🎥 Project Demo
 
 ### 🚗 Autonomous Driving
